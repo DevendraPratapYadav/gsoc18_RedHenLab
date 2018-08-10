@@ -112,7 +112,7 @@ FaceLandmarkVidMulti program will be built in <OpenFace_Directory>/build/bin. Pr
 ### Download required models and configure script
 
 1\. Tiny-faces trained weights:  
-Link : <google_drive_link>  
+Link : https://drive.google.com/file/d/1HtvrinoiNHTOquF5SHBWxXjUHlC8XbL4/view?usp=sharing  
 Place at : 2_face_detection/libs/tiny_faces/hr_res101.pkl  
 
 
