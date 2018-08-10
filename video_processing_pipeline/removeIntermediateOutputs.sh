@@ -1,0 +1,1 @@
+find . -name 'output_*' -type d -exec rm -rf {} \;
