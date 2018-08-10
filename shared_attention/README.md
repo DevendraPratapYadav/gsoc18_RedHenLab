@@ -64,6 +64,7 @@ Current training/testing is done on the converted VideoCoAtt dataset. The genera
 
 ## Code structure
 
+```
 .
 ├── data
 │   └── checkpoints
@@ -99,3 +100,5 @@ Current training/testing is done on the converted VideoCoAtt dataset. The genera
 │   ├── train_list.txt
 │   └── validate_list.txt
 └── visualization_heatmap
+
+```
