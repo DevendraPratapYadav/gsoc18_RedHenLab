@@ -156,6 +156,24 @@ The following arguments can be modified as per user requirements :
 --output_size : Size of aligned square face video  
 
 
+## Output visualization details
+
+1. Face landmarks - selected green points displayed on face
+2. Eye gaze - red line directed according to gaze
+3. Head pose - blue cuboid showing head pose
+4. Person identity - number on top left corner of face. -1 if identity cannot be detected
+5. Speaker identification - green ')))' symbol appears if person is speaking
+6. Action Units - names of selected action units are displayed on right side of face when present (and face size is large enough to avoid clutter)
+7. Face detection - blue rectangle on face. Only displayed if features cannot be extracted using OpenFace, but face was detected.
+
+
+## Documentation
+
+Details about input/output format and files for each stage are provided in a document in `docs` folder.
+
+The intermediate output files from a stage can be used as input to any new stage/module which may be added to the pipeline.
+
+
 
 ## NOTE:
 1\. For face alignment with OpenFace, all video frames are extracted as .bmp files while processing. Keep sufficient free disk space for these files. 

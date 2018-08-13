@@ -1,13 +1,14 @@
-## GSOC 2018 Project - Red Hen Lab
-
-Devendra Pratap Yadav  
-2014csb1010@iitrpr.ac.in  
-
-This contains work done for Red Hen Lab during GSOC 2018.
-
-1\. video_processing_pipeline - Contains code and documentation for modular pipeline to detect several face features in videos
-
-2\. shared_attention - Implements a deep neural network to detect gaze location of a person in images. Work is needed to improve test accuracy for inclusion with video_processing_pipeline
+## GSOC 2018 Project 
+### Devendra Pratap Yadav, 2014csb1010@iitrpr.ac.in  
 
 
-Each folder contains a detailed readme for the sub-project
+### Organization :
+Red Hen Lab
+Cognitive Vision lab, University of Bremen
+Mentors - Dr. Mehul Bhatt, Jakob Suchan, Sri Krishna
+
+
+### Video Processing Pipeline
+
+This project contains a modular pipeline to extract several facial related features from videos such as face landmarks, eye gaze direction, head pose and Action Units. `video_processing_pipeline` folder contains code and documentation
+
