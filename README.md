@@ -3,12 +3,12 @@
 
 
 ### Organization :
-Red Hen Lab
-Cognitive Vision lab, University of Bremen
-Mentors - Dr. Mehul Bhatt, Jakob Suchan, Sri Krishna
+Red Hen Lab  
+Cognitive Vision lab, University of Bremen  
+Mentors - Dr. Mehul Bhatt, Jakob Suchan, Sri Krishna  
 
 
 ### Video Processing Pipeline
 
-This project contains a modular pipeline to extract several facial related features from videos such as face landmarks, eye gaze direction, head pose and Action Units. `video_processing_pipeline` folder contains code and documentation
+This project contains a modular pipeline to extract several facial features from videos such as face landmarks, eye gaze direction, head pose and Action Units. The `video_processing_pipeline` folder contains code and detailed documentation
 
