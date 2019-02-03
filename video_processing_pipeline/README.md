@@ -20,8 +20,10 @@ The pipeline consists of 8 modules/stages :
 
 68 face landmarks, eye gaze direction, head pose, speaker state (is a person speaking), person identity and selected action units
 
+### Sample output visualization
 
-
+![sample feature visualization](sample_output/sample_output.jpg?raw=true "Visualization of extracted features")
+See [Output visualization details](#output-visualization-details) for description of visualized features.
 ## Dependencies:
 
 1. **Linux / Ubuntu**  
